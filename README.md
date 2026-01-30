@@ -17,6 +17,7 @@ City-wise salary split
 Future focus areas for HR & management decisions
 
 📌 Key Insights
+
 🔹 1. Salary Distribution
 
 50% of employees fall under the Medium salary category.
